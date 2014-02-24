@@ -1,0 +1,8 @@
+{
+  "name": "moolah.js",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-coffee": "~1.4.1",
+    "gulp-jasmine": "~0.1.4"
+  }
+}
